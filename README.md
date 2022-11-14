@@ -1,2 +1,2 @@
-# PROJEKTI_NIMI git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/GITHUBI_KASUTAJANIMI/PROJEKTI_NIMI.git git push -u origin main
-# Marie ilutuba
+# PROJEKTI_NIMI Marie ilutuba
+# Sissejuhatus erialasse - 9. seminar
