@@ -1,0 +1,22 @@
+body {
+  background-image: url("moroccan-flower.png");
+  background-color: antiquewhite;
+}
+h1 {position:absolute; left: 100px; top: 100px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: xx-large;
+font-style: italic;}
+h2 {position:absolute; left: 100px; top: 150px}
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn:hover {background: rgb(245, 221, 221);}
+
+.hinnakiri {color: black;}
+.broneeri {color: black;}
+
